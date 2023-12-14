@@ -1,5 +1,9 @@
 {
     "debug.javascript.resourceRequestOptions": {
+
+    },
+    "extension-test-runner.debugOptions": {
+        _vscode
         
     }
 }
